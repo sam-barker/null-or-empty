@@ -1,10 +1,10 @@
 {
-  "name": "isNullOrEmpty",
+  "name": "null-or-empty",
   "version": "1.0.0",
   "description": "Helper function to determine if something is undefined, null or empty",
   "main": "index.js",
   "repository": {
-    "url": "https://github.com/spbarker/isNullOrEmpty",
+    "url": "https://github.com/spbarker/null-or-empty",
     "type": "git"
   },
   "author": "Samuel Barker <spbarker1994@gmail.com>",
